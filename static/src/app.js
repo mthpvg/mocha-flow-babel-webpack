@@ -1,4 +1,5 @@
 // @flow
+
 import {sayHello} from './greeters';
 
 const shell = document.getElementById('shell');

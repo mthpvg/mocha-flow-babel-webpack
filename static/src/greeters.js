@@ -1,1 +1,3 @@
-export const sayHello = name => `Hello ${name}!`;
+// @flow
+
+export const sayHello = (name: string): string => `Hello ${name}!`;
