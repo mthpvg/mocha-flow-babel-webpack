@@ -1,4 +1,8 @@
+// @flow
+
+import {describe, it} from 'mocha';
 import  assert from 'assert';
+
 import {sayHello} from '../src/greeters';
 
 describe('Greeters', function() {
